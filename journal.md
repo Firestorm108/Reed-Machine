@@ -13,5 +13,6 @@ Today, I changed around the components a bit (ESP32 -> Arduino Nano) and got rid
 ![CleanS![CleanShot 2025-06-15 at 22 40 53](https://github.com/user-attachments/assets/ecce8b8f-1308-4cad-9ebe-20b63bdc63df)
 hot 2025-06-15 at 17 44 24](https://github.com/user-attachments/assets/890978d0-dc56-45e4-ab0d-a94e52f04e08)
 
+![CleanShot 2025-06-15 at 22 42 03](https://github.com/user-attachments/assets/d2cb34f2-5f6f-4afa-81dd-ec8380beb35d)
 
-Time Spent: ~6 Hours
+Time Spent: ~12 Hours
