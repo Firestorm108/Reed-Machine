@@ -9,6 +9,8 @@ Time Spent: ~4 Hours
 
 June 15-
 
-Today, I changed around the components a bit (ESP32 -> Arduino Nano) and got rid of the switch due to the rotary encoder having one built in. I did the routing for the PCB which took wayyy longer than expected especially with the footprints not working properly so I had like 15 errors. I had to manually edit the footprints but luckily it works now. ![CleanShot 2025-06-15 at 17 11 57](https://github.com/user-attachments/assets/7c7c4b2f-81da-45c3-a09c-8e547b2c4976)
+Today, I changed around the components a bit (ESP32 -> Arduino Nano) and got rid of the switch due to the rotary encoder having one built in. I did the routing for the PCB which took wayyy longer than expected especially with the footprints not working properly so I had like 15 errors. I had to manually edit the footprints but luckily it works now. I also completed the wiring diagram. ![CleanShot 2025-06-15 at 17 11 57](https://github.com/user-attachments/assets/7c7c4b2f-81da-45c3-a09c-8e547b2c4976)
+![CleanShot 2025-06-15 at 17 44 24](https://github.com/user-attachments/assets/890978d0-dc56-45e4-ab0d-a94e52f04e08)
 
-Time Spent: ~5 Hours
+
+Time Spent: ~6 Hours
