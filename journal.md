@@ -1,3 +1,5 @@
+Total Time Spent: 17 Hours
+
 June 14th-
 I spent some time researching parts, and thought about my idea. I just came up with a rough idea today overall to guide and think upon. I also completed the BOM just now. As well as the PCB layout. I will route it tomorrow.
 
@@ -16,3 +18,10 @@ hot 2025-06-15 at 17 44 24](https://github.com/user-attachments/assets/890978d0-
 ![CleanShot 2025-06-15 at 22 42 03](https://github.com/user-attachments/assets/d2cb34f2-5f6f-4afa-81dd-ec8380beb35d)
 
 Time Spent: ~12 Hours
+
+June 16-
+
+Polished up the 3d files, BOM, and other files to get it ready to submit.
+
+Time Spent: ~1 Hour
+
