@@ -25,7 +25,7 @@ Time Spent: ~12 Hours
 
 June 16-
 
-Polished up the 3d files, BOM, and other files to get it ready to submit.
+Polished up the 3d files, BOM, and other files to get it ready to submit. (Nothing large, just making sure everything is in the right place)
 
 Time Spent: ~1 Hour
 
