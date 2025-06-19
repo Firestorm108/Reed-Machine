@@ -18,6 +18,7 @@ hot 2025-06-15 at 17 44 24](https://github.com/user-attachments/assets/890978d0-
 The wiring diagram is pretty basic since mostly everything is on the PCB.
 
 ![CleanShot 2025-06-15 at 22 42 03](https://github.com/user-attachments/assets/d2cb34f2-5f6f-4afa-81dd-ec8380beb35d)
+
 The casing is pretty cool, there's a clamp on the top to hold the reed down, space in the front for the OLED, rotary encoder, and LED. In the back, there are vents for airflow and housing for the components with a sliding door to put the reed in.
 
 Time Spent: ~12 Hours
