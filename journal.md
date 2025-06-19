@@ -12,10 +12,13 @@ Time Spent: ~4 Hours
 June 15-
 
 Today, I changed around the components a bit (ESP32 -> Arduino Nano) and got rid of the switch due to the rotary encoder having one built in. I did the routing for the PCB which took wayyy longer than expected especially with the footprints not working properly so I had like 15 errors. I had to manually edit the footprints but luckily it works now. I also completed the wiring diagram. After that, I designed the entire casing where I learned a lot of new things. I really like how the case came out, and I think it'll look cool. I think it needs some polishing to look a little cleaner which I will make sure to do. ![CleanShot 2025-06-15 at 17 11 57](https://github.com/user-attachments/assets/7c7c4b2f-81da-45c3-a09c-8e547b2c4976)
+I had a lot of trouble with routing especially but I'm super proud of this PCB and hope it works.
 ![CleanS![CleanShot 2025-06-15 at 22 40 53](https://github.com/user-attachments/assets/ecce8b8f-1308-4cad-9ebe-20b63bdc63df)
 hot 2025-06-15 at 17 44 24](https://github.com/user-attachments/assets/890978d0-dc56-45e4-ab0d-a94e52f04e08)
+The wiring diagram is pretty basic since mostly everything is on the PCB.
 
 ![CleanShot 2025-06-15 at 22 42 03](https://github.com/user-attachments/assets/d2cb34f2-5f6f-4afa-81dd-ec8380beb35d)
+The casing is pretty cool, there's a clamp on the top to hold the reed down, space in the front for the OLED, rotary encoder, and LED. In the back, there are vents for airflow and housing for the components with a sliding door to put the reed in.
 
 Time Spent: ~12 Hours
 
