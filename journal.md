@@ -29,3 +29,8 @@ Polished up the 3d files, BOM, and other files to get it ready to submit. (Nothi
 
 Time Spent: ~1 Hour
 
+July 9-
+
+I left all the parts to print overnight today. Tomorrow the goal is to speedrun building the entire project to bring to undercity.
+
+Time Spent: ~1 Hour
