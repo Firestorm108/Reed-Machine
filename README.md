@@ -7,8 +7,9 @@ Ever opened a new reed but it just felt stiff? That's the purpose of the Reed Ma
 
 ![CleanShot 2025-06-15 at 17 43 31](https://github.com/user-attachments/assets/58bc8937-7656-4338-9612-d2ef276c21c2)
 
+<img width="789" height="463" alt="CleanShot 2025-07-17 at 19 17 57" src="https://github.com/user-attachments/assets/cf7adfaa-b3ce-4cec-bd82-e1b89eefb652" />
 
-![CleanShot 2025-06-18 at 23 39 08](https://github.com/user-attachments/assets/82d7a877-530c-4203-85f6-cbce032a9f74)
+
 
 
 ![CleanShot 2025-06-19 at 00 05 56](https://github.com/user-attachments/assets/31b381e4-9d21-4e4c-a546-e9d38324fc1c)
