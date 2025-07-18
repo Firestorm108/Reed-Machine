@@ -34,3 +34,17 @@ July 9-
 I left all the parts to print overnight today. Tomorrow the goal is to speedrun building the entire project to bring to undercity.
 
 Time Spent: ~1 Hour
+
+July 17th
+
+I printed all my files, and nothing fit lol. 
+
+Nothing, not the batteries, not the PCB, not the thumbscrew.
+
+Absolutely nothing!
+
+So I completely redesigned the entire case and now it's much thinner and better overall.
+
+<img width="484" height="573" alt="CleanShot 2025-07-17 at 19 02 57" src="https://github.com/user-attachments/assets/73b6b5a7-db0f-4b68-9871-bc2d59994aa4" />
+
+<img width="626" height="514" alt="CleanShot 2025-07-17 at 19 02 48" src="https://github.com/user-attachments/assets/e39dfa7b-2e34-485e-b351-e1b5d52286a7" />
