@@ -48,3 +48,26 @@ So I completely redesigned the entire case and now it's much thinner and better 
 <img width="484" height="573" alt="CleanShot 2025-07-17 at 19 02 57" src="https://github.com/user-attachments/assets/73b6b5a7-db0f-4b68-9871-bc2d59994aa4" />
 
 <img width="626" height="514" alt="CleanShot 2025-07-17 at 19 02 48" src="https://github.com/user-attachments/assets/e39dfa7b-2e34-485e-b351-e1b5d52286a7" />
+
+<h1>August 7th</h1>
+
+Today I built the whole thing! Numerous things went wrong, it was horrible. First, the original microcontroller came broken. I tried to use an ESP32. But I needed 5V logic. So, I had to go with a random barely working arduino, my first ever. I'm glad that I had it though otherwise this project wouldn't have been possible. 
+This first picture is me earlier today when I was wiring and everything was nice and happy in the world.
+![IMG_3233](https://github.com/user-attachments/assets/9c7ce7d7-7d7e-45a7-bf88-8fc18d52dc53)
+
+Then, disaster struck! My 18650 cell shorted itself and the wire insulation started dripping. I remember feeling a burn on my arm, looking back, seeing smoke coming out, and then cutting the wires immediately cause I was scared lol.
+It's okay though it all works now.
+
+![IMG_3234](https://github.com/user-attachments/assets/d4775098-315b-4e49-894f-b710e7332a0c)
+
+I watched over 30 episodes of Brooklyn 99 working on this I believe (this picture was taken at 3am), it was a fun time though, chilling, working on the project.
+
+![IMG_3236](https://github.com/user-attachments/assets/824b995a-1aab-455e-b1d7-5d90fcb3e329)
+
+Finally I just finished the project. I tested it out on my saxophone, and it actually works pretty well! My tone is noticeably better and I can hit lower notes way easier.
+
+![IMG_3273 2](https://github.com/user-attachments/assets/59a5e3c4-3e68-4a9e-80ec-67d349434b25)
+
+Total Time Spent: 12 Hours
+
+
